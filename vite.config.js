@@ -5,7 +5,7 @@ import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/aviation-website/', // Configuração para GitHub Pages
+  base: '/aviation/', // Configuração para GitHub Pages
   plugins: [react(),tailwindcss()],
   resolve: {
     alias: {
