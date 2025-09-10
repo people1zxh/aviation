@@ -8,7 +8,7 @@ Este website foi criado para documentar e partilhar a paixão pela aviação, of
 
 - **Conteúdo Educativo**: História da aviação, aviação militar, fabricantes, formação e oportunidades de carreira
 - **Jornada Pessoal**: Documentação da transição da universidade para o curso ATPL integrado
-- **Design Responsivo**: Funciona perfeitamente em desktop e dispositivos móveis
+- **Design Responsivo**: Funciona perfeitamente em desktop e dispositivos móveis 
 - **Hospedagem Gratuita**: Configurado para GitHub Pages sem custos
 
 ## 🚀 Tecnologias Utilizadas
